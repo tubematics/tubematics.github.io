@@ -1,14 +1,9 @@
-Syntax highlighted code block
+# This page in under construction
+## It will eventually showcase tubematics projects
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+The following projects are planned
+- using g-code to teach an old robot new tricks
+- using our walking stick to map a building 
 
 **Bold** and _Italic_ and `Code` text
 
